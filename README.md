@@ -4,7 +4,7 @@ Each subject and sub-level lesson are PROGRESSIVELY INTEGRATED into the the next
 ---
 ## Silicon Life Engineer.
 The Silicon Life Project reverlates the field of digital electronics post epitome, which is what I bring after six year reduced hours. A master by coursework with five specialisation electives, I propose Convener of Masters of Engineering – Silicon Life Engineer; (1) Embedded
-Control Systems, (2) Concurrency; Core, Post-Process., (3) Networking, (4) Full Stack Development, (5) Binary Neural Intelligence..
+Control Systems, (2) Concurrency; Core, Post-Process., (3) Networking, (4) Full Stack Development, (5) Concurrent Bussing, (6) Binary Neural Intelligence..
 
 I am the sole trader entrepreneur that started The Silicon Life Architecture project. The TEMPLATE for all server interfacing, as a trade venture of Jasper Assembly Pty Ltd. in 2020. A template for a supercomputer on the modern server. Extendable to Concurrent Full Stack Development and Binary Neural Intelligence of all systems that input to output via algorithm.
 

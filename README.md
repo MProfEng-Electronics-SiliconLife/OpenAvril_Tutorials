@@ -1,5 +1,5 @@
 # MIT teaching package: Master of Engineering - Electronic Systems - Silicon Life.
-Each subject and sub-level lesson are PROGRESSIVELY INTEGRATED into the the next reffered lesson substance.
+Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the the next reffered lesson substance.
 
 ---
 ## Silicon Life Engineer.

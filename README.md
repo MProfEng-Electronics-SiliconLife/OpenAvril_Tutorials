@@ -60,7 +60,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     
     - Implements: Resource ALPHA.
       
-  - [LESSON 7: Java  - Simulation and Test-Benching - OpenEpiCentre.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore). **UNDER DEVELOPMENT**
+  - [LESSON 7: Java  - Simulation and Test-Benching](). **UNDER DEVELOPMENT**
    
     - Implements: Resource ALPHA.
    
@@ -75,7 +75,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
 ---
 [SUBJECT Delta   : C++       : Concurrrency Implementation: Core.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_CandD__Concurrency_Theory_And_Implementation_Testing)
   
-  - [LESSON 8: CLIB Server-Side : OpenEpiCentre : Ubuntu Server Update].(https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)
+  - [LESSON 8: CLIB Left Hemisphore - Epicentre : Ubuntu Server Update].(https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)
     - TEMPLATE => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu). **UNDER DEVELOPMENT**
     - Resource ECHO.
     - Implements: Resource ALPHA. 

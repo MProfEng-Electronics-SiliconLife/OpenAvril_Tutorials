@@ -60,7 +60,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     
     - Implements: Resource ALPHA.
       
-  - [LESSON 7: Java  - Simulation and Test-Benching](). **UNDER DEVELOPMENT**
+  - [LESSON 7: Java  - Simulation and Test-Benching](https://github.com/MProfEng-Electronics-SiliconLife/OpenAvril_Tutorials/tree/main/SUBJECT_CandD__Concurrency_Theory_And_Implementation_Testing/Lesson_8__Java__Simulation_and_TestBenching__OpenEpiCentre). **UNDER DEVELOPMENT**
    
     - Implements: Resource ALPHA.
    

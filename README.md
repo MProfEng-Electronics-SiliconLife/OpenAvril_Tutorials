@@ -35,7 +35,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
   
   - Prerequisite: SUBJECT Alpha: C++, Java - Introduction To High Level Hardware Language.
 
-  - [LESSON 3: Java - Simulation and Test-Benching - Concept of Software Integration.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems/Lesson_3__Java__Simulation_and_TestBenching__Concept_of_Software_Integration).  **UNDER DEVELOPMENT**
+  - [LESSON 3: Java - Simulation and Test-Benching - Concept of Software Integration.](https://github.com/MProfEng-Electronics-SiliconLife/OpenAvril_Tutorials/tree/main/SUBJECT_A__Computer_Systems/Lesson_3__Java__Simulation_and_TestBenching__Concept_of_Software_Integration). **UNDER DEVELOPMENT**
     
     - Resource CHALRIE.
 

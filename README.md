@@ -60,7 +60,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     
     - Implements: Resource ALPHA.
       
-  - [LESSON 7: Java  - Simulation and Test-Benching - OpenEpiCentre.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)
+  - [LESSON 7: Java  - Simulation and Test-Benching - OpenEpiCentre.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)**UNDER DEVELOPMENT**
    
     - Implements: Resource ALPHA.
    

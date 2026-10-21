@@ -85,7 +85,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
 ---
 [SUBJECT Echo    : Java      : Full Stack Development via Concurrrency; Core, Post-Process.](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
   
-  - [LESSON 9: Client Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
+  - [LESSON 9: Client Assembly](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)**UNDER DEVELOPMENT**
     
     - TEMPLATE => https://github.com/OpenAvril/Concurrent-Full-Stack-Development **UNDER DEVELOPMENT**
     

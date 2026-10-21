@@ -1,17 +1,17 @@
+# ZINC (Zinc Insulate Neural Chip) silicon life open source resource package.
+## Silicon Life Engineer.
+I extend to you an array of MIT packages for teaching the Silicon Life Engineer.
+
+The Silicon Life Project reverlates the field of digital electronics post epitome, which is what I bring after six year reduced hours. A master by coursework with five specialisation electives, I propose Convener of Masters of Engineering – Silicon Life Engineer - Major: Concurrent; Embedded control systems, Core, Post-process, Networking, Full stack development, System bussing., and Binary neural intelligence.
+
+I am the sole trader entrepreneur that started The Silicon Life Architecture project. A template for Zinc Insulate Neural Chip design. a supercomputer on the modern server left hemisphore. Extendable to Concurrent Full Stack Development and Binary Neural Intelligence of all systems that input to output via algorithm.
+
+
+---
+---
 # MIT teaching package: Master of Engineering - Electronic Systems - Silicon Life.
 Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the the next reffered lesson substance.
 
----
-## Silicon Life Engineer.
-The Silicon Life Project reverlates the field of digital electronics post epitome, which is what I bring after six year reduced hours. A master by coursework with five specialisation electives, I propose Convener of Masters of Engineering – Silicon Life Engineer; (1) Embedded
-Control Systems, (2) Concurrency; Core, Post-Process., (3) Networking, (4) Full Stack Development, (5) Concurrent Bussing, (6) Binary Neural Intelligence..
-
-I am the sole trader entrepreneur that started The Silicon Life Architecture project. The TEMPLATE for all server interfacing, as a trade venture of Jasper Assembly Pty Ltd. in 2020. A template for a supercomputer on the modern server. Extendable to Concurrent Full Stack Development and Binary Neural Intelligence of all systems that input to output via algorithm.
-
-I extend to you an array of MIT packages for teaching the Silicon Life Engineer.
-
----
----
 ## Courses.
   - [LESSON 0: Theory of Deductive Reasoning, Architechure of Silicon and Carbon Thinking.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems/Lesson_0__Theory_of_Deductive_Reasoning_Architechure_of_Silicon_and_Carbon_Thinking)
     - Introduction.

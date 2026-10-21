@@ -54,7 +54,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
   
   - [LESSON 6: CLIB LaunchQue For ConcurrentThreadsAtEnds.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_LaunchQue)
     
-    - TEMPLATE => ([CLIB CustsomMutexQue For ThreadAccessIdAtDataClusterId.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
+    - TEMPLATE => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
     
     - Resource DELTA.
     

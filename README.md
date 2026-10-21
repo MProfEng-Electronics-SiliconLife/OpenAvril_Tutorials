@@ -48,7 +48,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     - Implements: Resource ECHO. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore).
       
 [SUBJECT Delta   : C++       : Concurrrency Implementation: Core.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_CandD__Concurrency_Theory_And_Implementation_Testing)
-  - [LESSON 8: CLIB Server-Side : OpenEpiCentre : Ubuntu Server Update].()
+  [LESSON 8: CLIB Server-Side : OpenEpiCentre : Ubuntu Server Update].(https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)
     - TEMPLATE => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu). **UNDER DEVELOPMENT**
     - Resource ECHO.
     - Implements: Resource ALPHA. 
@@ -56,7 +56,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     - Implements: Resource DELTA. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_LaunchQue).
 
 [SUBJECT Echo    : Java      : Full Stack Development via Concurrrency; Core, Post-Process.](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
-  - [LESSON 9: Client Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
+  [LESSON 9: Client Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
     TEMPLATE => https://github.com/OpenAvril/Concurrent-Full-Stack-Development **UNDER DEVELOPMENT**
     - Prerequisite: SUBJECT Bravo: Java - Integrating Hardware.
     - Implements: Resource ALPHA.
@@ -64,7 +64,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     - Implements: Resource CHALRIE
   - **//todo Networing.**
 
-  - [LESSON 10: Server Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Server_Assembly)
+  [LESSON 10: Server Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Server_Assembly)
     [TEMPLATE => https://github.com/OpenAvril/OpenCFSD_Java_Assembly/tree/main/Server_Assembly](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Server_Assembly). **UNDER DEVELOPMENT**
     - Prerequisite: SUBJECT Charlie & Delta: Concurrrency Theory and Implementation.
     - Implements: Resource DELTA.
@@ -73,10 +73,10 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
 - **//todo Networing.**
 
 [SUBJECT Foxtrot : Java      : Binary Neural Intelligence.](https://github.com/OpenAvril/Binary-Neural-Intelligence)
-  - [LESSON 11: Training Suite].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Design_Suite).
+  [LESSON 11: Training Suite].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Design_Suite).
     TEMPLATE => (https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Design_Suite). **UNDER DEVELOPMENT**
 
-  - [LESSON 13: Application Implementaion].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Task_Assembly).
+  [LESSON 13: Application Implementaion].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Task_Assembly).
     TEMPLATE => (https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Task_Assembly). **UNDER DEVELOPMENT**
       
 [SUBJECT Giga    :           : Silicon Life Philosphy.]()

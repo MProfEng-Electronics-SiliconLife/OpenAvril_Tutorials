@@ -19,8 +19,7 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
 [SUBJECT Alpha   : C++, Java : Introduction To High Level Hardware Language.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems)
   - [LESSON 1: C++ - Introduction to the Dynamic Link Library (DLL). ](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems/Lesson_1__Cpp__Introduction_To_Dynamic_Link_Library).
     - Resource ALPHA.
-  - [LESSON 2: C++ - CLIB WriteQue For AccessIdAtDataClusterId.](https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK).
-    - TEMPLATE => (https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK).
+  - [LESSON 2: C++ - CLIB CustsomMutexQue For ThreadAccessIdAtDataClusterId.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
     - Resource BRAVO.
     - Implements: Resource ALPHA.
       
@@ -41,44 +40,44 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
     - Resource DELTA.
     - Implements: Resource ALPHA.
       
-  - [LESSON 7: Java  - Simulation and Test-Benching - OpenEpiCentre.]()
+  - [LESSON 7: Java  - Simulation and Test-Benching - OpenEpiCentre.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore)
     - Implements: Resource ALPHA.
-    - Implements: Resource BRAVO. RESOURCE PROVIDED => (https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK/tree/Implementations_CLIB).
+    - Implements: Resource BRAVO. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
     - Implements: Resource CHALRIE.
-    - Implements: Resource DELTA. RESOURCE PROVIDED => (https://github.com/OpenAvril/CLIB_LaunchEnableForConcurrentThreadsAt_END/tree/Implementations_CLIB).
-    - Implements: Resource ECHO. RESOURCE PROVIDED => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu).
+    - Implements: Resource DELTA. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_LaunchQue).
+    - Implements: Resource ECHO. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/CLIB_LeftHemishpore).
       
 [SUBJECT Delta   : C++       : Concurrrency Implementation: Core.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_CandD__Concurrency_Theory_And_Implementation_Testing)
   - [LESSON 8: CLIB Server-Side : OpenEpiCentre : Ubuntu Server Update].()
-    - TEMPLATE => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu). .UNDER DEVELOPMENT.
+    - TEMPLATE => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu). **UNDER DEVELOPMENT**
     - Resource ECHO.
     - Implements: Resource ALPHA. 
-    - Implements: Resource BRAVO. RESOURCE PROVIDED => (https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK/tree/Implementations_CLIB).
-    - Implements: Resource DELTA. RESOURCE PROVIDED => (https://github.com/OpenAvril/CLIB_LaunchEnableForConcurrentThreadsAt_END/tree/Implementations_CLIB).
+    - Implements: Resource BRAVO. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
+    - Implements: Resource DELTA. RESOURCE PROVIDED => (https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_LaunchQue).
 
-[SUBJECT Echo    : Java      : Full Stack Development via Concurrrency; Core, Post-Process.]()
-  - [LESSON 9: Client Assembly].()
-    TEMPLATE => https://github.com/OpenAvril/OpenCFSD_Java_Assembly/tree/main/Client_Assembly. .UNDER DEVELOPMENT.
+[SUBJECT Echo    : Java      : Full Stack Development via Concurrrency; Core, Post-Process.](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
+  - [LESSON 9: Client Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Client_Assembly)
+    TEMPLATE => https://github.com/OpenAvril/Concurrent-Full-Stack-Development **UNDER DEVELOPMENT**
     - Prerequisite: SUBJECT Bravo: Java - Integrating Hardware.
     - Implements: Resource ALPHA.
     - Implements: Resource BRAVO.
-     - Implements: Resource CHALRIE
-  - Networing.
+    - Implements: Resource CHALRIE
+  - **//todo Networing.**
 
-  - [LESSON 10: Server Assembly].()
-    TEMPLATE => https://github.com/OpenAvril/OpenCFSD_Java_Assembly/tree/main/Server_Assembly. .UNDER DEVELOPMENT.
+  - [LESSON 10: Server Assembly].(https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Server_Assembly)
+    [TEMPLATE => https://github.com/OpenAvril/OpenCFSD_Java_Assembly/tree/main/Server_Assembly](https://github.com/OpenAvril/Concurrent-Full-Stack-Development/tree/main/Server_Assembly). **UNDER DEVELOPMENT**
     - Prerequisite: SUBJECT Charlie & Delta: Concurrrency Theory and Implementation.
     - Implements: Resource DELTA.
     - Implements: Resource ECHO.
     - Implements: Resource CHALRIE
-  - Networing.
+- **//todo Networing.**
 
-[SUBJECT Foxtrot : Java      : Binary Neural Intelligence.]()
-  - [LESSON 11: Training Suite].()
-    TEMPLATE => (https://github.com/OpenAvril/OpenNNI_Avril/tree/main/Design_Suite). .UNDER DEVELOPMENT.
+[SUBJECT Foxtrot : Java      : Binary Neural Intelligence.](https://github.com/OpenAvril/Binary-Neural-Intelligence)
+  - [LESSON 11: Training Suite].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Design_Suite).
+    TEMPLATE => (https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Design_Suite). **UNDER DEVELOPMENT**
 
-  - [LESSON 13: Application Implementaion].()
-    TEMPLATE => (https://github.com/OpenAvril/OpenNNI_Avril/tree/main/Task_Assembly). .UNDER DEVELOPMENT.
+  - [LESSON 13: Application Implementaion].(https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Task_Assembly).
+    TEMPLATE => (https://github.com/OpenAvril/Binary-Neural-Intelligence/tree/main/Task_Assembly). **UNDER DEVELOPMENT**
       
 [SUBJECT Giga    :           : Silicon Life Philosphy.]()
 

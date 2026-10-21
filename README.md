@@ -35,15 +35,15 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
   
   - Prerequisite: SUBJECT Alpha: C++, Java - Introduction To High Level Hardware Language.
 
-  - [LESSON 3: Java - Simulation and Test-Benching - Concept of Software Integration.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems/Lesson_3__Java__Simulation_and_TestBenching__Concept_of_Software_Integration).
+  - [LESSON 3: Java - Simulation and Test-Benching - Concept of Software Integration.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_A__Computer_Systems/Lesson_3__Java__Simulation_and_TestBenching__Concept_of_Software_Integration).  **UNDER DEVELOPMENT**
     
     - Resource CHALRIE.
 
-  - [LESSON 4: Java - Deploy A Xbox Controller And GUI.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_B__Java_Integrating_Hardware/Lesson_4__Java__Deploy_A_Xbox_Controller_And_GUI)
+  - [LESSON 4: Java - Deploy A Xbox Controller And GUI.](https://github.com/MCompSc-SoftwareEngineering/SubjectStream_The_High_Level_Hardware_Language/tree/main/SUBJECT_B__Java_Integrating_Hardware/Lesson_4__Java__Deploy_A_Xbox_Controller_And_GUI) **UNDER DEVELOPMENT**
     
     - Implemets: Resource CHALRIE.
 
-  - [LESSON 5: Java - A Simple Game (Pong with a trajectory).]()
+  - [LESSON 5: Java - A Simple Game (Pong with a trajectory).]() **UNDER DEVELOPMENT**
     
     - Implemets: Resource CHALRIE.      
 
@@ -52,9 +52,9 @@ Each subject and sub-level lesson are quite PROGRESSIVELY INTEGRATED into the th
   
   - Prerequisite: SUBJECT Alpha: C++, Java - Introduction To High Level Hardware Language.
   
-  - [LESSON 6: CLIB Server-Side - LaunchQue For ThreadsAtEnds.]()
+  - [LESSON 6: CLIB LaunchQue For ConcurrentThreadsAtEnds.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_LaunchQue)
     
-    - TEMPLATE => ([https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK](https://github.com/OpenAvril/CLIB_LaunchEnableForConcurrentThreadsAt_END/tree/Implementations_CLIB).
+    - TEMPLATE => ([CLIB CustsomMutexQue For ThreadAccessIdAtDataClusterId.](https://github.com/OpenAvril/zinc/tree/main/CLIB_ZincNeuralChip/libs/Control/libs/CLIB_MutexQue).
     
     - Resource DELTA.
     
